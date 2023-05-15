@@ -1,6 +1,6 @@
 export const environment = {
   production: true,
-  URL: 'https://backend-kb1e.onrender.com/',
+  
   firebase: {
     projectId: 'davidfrontend-d25b8',
     appId: '1:973643423155:web:b66c2418e9d27f0370bfc6',
