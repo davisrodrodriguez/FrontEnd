@@ -1,0 +1,65 @@
+/* Estilos para la página de edición de proyecto */
+
+/* Centrar el contenido de la página */
+.pagina {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+  }
+  
+  /* Dar un margen al contenedor principal */
+  .margen {
+    margin: 20px;
+  }
+  
+  /* Estilos para el formulario */
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 5px;
+  }
+  
+  input[type="text"],
+  textarea {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+    margin-top: 5px;
+  }
+  
+  button.btn-dark {
+    background-color: #343a40;
+    border-color: #343a40;
+    color: #fff;
+  }
+  
+  .imagen {
+    text-align: center;
+  }
+  
+  .imagen-proyecto {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+    box-shadow: 10px 10px 30px #000000;
+  }
+  
+  /* Estilos para el título de la página */
+  .titulo {
+    text-align: center;
+    margin-bottom: 40px;
+  }
+  
+  .titulo h1 {
+    font-size: 32px;
+    font-weight: bold;
+    color: #343a40;
+  }
+  

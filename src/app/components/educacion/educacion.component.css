@@ -1,0 +1,16 @@
+.row{
+  padding: 20px;
+}
+
+
+h1, h3{
+  display: inline;
+}
+div{
+  background-color: #0a2a4d;
+  text-align: center;
+  color: white;
+}
+.row, h1, button, td {
+  color: white;
+}
